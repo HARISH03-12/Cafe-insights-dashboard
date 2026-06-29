@@ -98,4 +98,4 @@ Useful for identifying:
 
 ## Dashboard Preview>
 
-Screenshot 2026-06-29 122137.png
+<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/d6f7cf5c-0e9e-46c2-8d9a-ca404c764f99" />
