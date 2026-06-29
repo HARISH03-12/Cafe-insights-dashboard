@@ -96,6 +96,6 @@ Useful for identifying:
 - Data Visualization
 - Interactive Reporting
 
-## Dashboard Preview
+## Dashboard Preview>
 
-<img width="1920" height="960" alt="Screenshot 2026-06-29 122137" src="https://github.com/user-attachments/assets/d9dccd02-709a-43e0-90da-e7fd7512e997" />
+Screenshot 2026-06-29 122137.png
